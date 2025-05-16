@@ -19,10 +19,10 @@ let musicaJuego
 function preload() {
   // put preload code here
   musicaRecord = loadSound("./sounds/aplauso.wav")
-  musicaJuego = loadSound("./sounds/edes.mp3")
- imagenFondo = loadImage("./images/fondojuego00.png")
- personaje = loadImage("./images/miku00.gif")
- imagenInicio = loadImage("./images/flappyedicionespecial.jpeg")
+  musicaJuego = loadSound("./sounds/halo3main.mp3")
+ imagenFondo = loadImage("./images/fondoH.jpg")
+ personaje = loadImage("./images/masterchief.jpeg")
+ imagenInicio = loadImage("./images/Pinicio.jpeg")
  pared = loadImage("./images/pared.png")
 
 
